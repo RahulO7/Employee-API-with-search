@@ -51,3 +51,13 @@ const employees = [
     },
 ]
 export default employees;
+
+//     const filterData = (process)=>{
+//         const fData = Employees.filter((e)=>{
+//             return e.process === process;
+//         }) ;
+//         setEdata(fData)
+//         if(process === "All"){
+//             setEdata(Employees);
+//         }
+//  }
